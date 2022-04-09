@@ -9,3 +9,17 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+#
+#**/mvnw
+#**/mvnw.cmd
+#**/.mvn
+#**/target
+#.idea
+#**/.gitignore
+#>>>>>>> a783d49 (Initial commit)
+>>>>>>> 94af3ce (Initial commit)
